@@ -4,10 +4,13 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.9"
 dependencies = [
+    "imageio>=2.37.2",
     "jupyter>=1.1.1",
     "matplotlib>=3.9.4",
+    "mglearn>=0.2.0",
     "numpy>=2.0.2",
     "pandas>=2.3.3",
+    "scikit-image>=0.24.0",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.5",
